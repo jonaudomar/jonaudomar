@@ -41,3 +41,54 @@ Here are some ideas to get you started:
           
 
 
+
+
+# 👋 Bonjour, je suis [Ton Prénom Nom]  
+
+🎯 **Data Scientist | Data Analyst | Machine Learning Enthusiast**  
+💡 Passionné par l'analyse de données, la modélisation et la création de solutions data-driven.  
+
+---
+
+## 🔍 À propos de moi
+- 📊 J’aime transformer les données brutes en **insights actionnables**.
+- 🤖 Expérience en **machine learning**, **statistiques appliquées** et **data visualisation**.
+- 🛠 Compétences techniques : Python (pandas, scikit-learn, matplotlib, seaborn), SQL, Git.
+- 🌱 Actuellement en train de me perfectionner en **Deep Learning** et **MLOps**.
+- 🌍 Ouvert aux opportunités dans **[ville/pays]** ou en **remote**.
+
+---
+
+## 📌 Projets phares
+
+### 1️⃣ [Prédiction du churn client](https://github.com/monprofil/churn-prediction)
+- **Objectif** : prédire le départ des clients pour anticiper les actions marketing.
+- **Techniques** : feature engineering, modèles supervisés (RandomForest, XGBoost).
+- **Résultat** : amélioration de 15% du recall sur la classe minoritaire.
+
+### 2️⃣ [Analyse des ventes e-commerce](https://github.com/monprofil/ecommerce-sales-analysis)
+- **Objectif** : comprendre les tendances d’achat et optimiser le stock.
+- **Techniques** : EDA, visualisations (seaborn, plotly), KPI business.
+- **Résultat** : recommandations concrètes pour réduire les ruptures de stock.
+
+### 3️⃣ [Application Streamlit - Prédiction immobilière](https://github.com/monprofil/real-estate-predictor)
+- **Objectif** : estimer le prix d’un bien immobilier en ligne.
+- **Techniques** : regression, pipeline scikit-learn, déploiement Streamlit.
+- **Résultat** : application interactive consultée par plus de 500 utilisateurs.
+
+---
+
+## 🛠 Compétences techniques
+- **Langages** : Python, SQL, Bash
+- **Librairies ML** : scikit-learn, XGBoost, LightGBM
+- **Visualisation** : matplotlib, seaborn, plotly
+- **Outils** : Git, Docker, Streamlit, PowerBI
+- **Bases de données** : MySQL, PostgreSQL
+
+---
+
+## 📫 Me contacter
+- 📧 Email : ton.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tonprofil)
+- 🐙 [GitHub](https://github.com/monprofil)
+
