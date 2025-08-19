@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonaudomar&label=Profile%20views&color=0e75b6&style=flat" alt="jonaudomar" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://rahuldkjain.github.io/](https://rahuldkjain.github.io/)
+- 👨‍💻 All of my projects are available here
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,7 +88,6 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Me contacter
-- 📧 Email : ton.email@example.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tonprofil)
-- 🐙 [GitHub](https://github.com/monprofil)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jonathandelrue)
+- 🐙 [GitHub](https://github.com/jonaudomar)
 
