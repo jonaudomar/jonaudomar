@@ -37,16 +37,16 @@ Here are some ideas to get you started:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
-  
-          
 
 
 
 
-# 👋 Bonjour, je suis [Ton Prénom Nom]  
 
-🎯 **Data Scientist | Data Analyst | Machine Learning Enthusiast**  
-💡 Passionné par l'analyse de données, la modélisation et la création de solutions data-driven.  
+
+# 👋 Bonjour, je suis JD
+
+🎯 **Data Scientist | Data Analyst | Machine Learning Enthusiast**
+💡 Passionné par l'analyse de données, la modélisation et la création de solutions data-driven.
 
 ---
 
@@ -90,4 +90,3 @@ Here are some ideas to get you started:
 ## 📫 Me contacter
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jonathandelrue)
 - 🐙 [GitHub](https://github.com/jonaudomar)
-
