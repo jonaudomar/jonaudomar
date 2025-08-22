@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">A data science repository</h1>
+<h1 align="center">Data science projects</h1>
 <h3 align="center">from Jonathan Delrue</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonaudomar&label=Profile%20views&color=0e75b6&style=flat" alt="jonaudomar" /> </p>
 
-- 👨‍💻 **Engineer graduated from Poytech Sorbonne in Paris (geophysics)**
-- Master of Science in Innovation and Entrepreneurship from ESCP Europe business school
-- Data science skills forged at Le Wagon Rio de Janeiro
+- 📌**Engineer graduated from Poytech Sorbonne in Paris (geophysics)**
+- 🤖 Master of Science in Innovation and Entrepreneurship from ESCP Europe business school
+- 👨‍💻 Data science skills forged at Le Wagon Rio de Janeiro
+
+Mostly published as a Jupyter Notebook containing Python code, i share with you some of my working projects on the following topics : __data analysis, decision science, machine learning, deep learning.__
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,22 +35,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonaudomar&" alt="jonaudomar" /></p>
 
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
-
-
-
-
-
-
-# 👋 Bonjour, je suis JD
-
-🎯 **Data Scientist | Data Analyst | Machine Learning Enthusiast**
-💡 Passionné par l'analyse de données, la modélisation et la création de solutions data-driven.
-
----
 
 ## 🔍 À propos de moi
 - 📊 J’aime transformer les données brutes en **insights actionnables**.
@@ -84,9 +70,3 @@ Here are some ideas to get you started:
 - **Visualisation** : matplotlib, seaborn, plotly
 - **Outils** : Git, Docker, Streamlit, PowerBI
 - **Bases de données** : MySQL, PostgreSQL
-
----
-
-## 📫 Me contacter
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jonathandelrue)
-- 🐙 [GitHub](https://github.com/jonaudomar)
