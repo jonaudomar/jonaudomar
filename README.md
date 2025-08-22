@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonaudomar&label=Profile%20views&color=0e75b6&style=flat" alt="jonaudomar" /> </p>
 
-- 👨‍💻 All of my projects are available here
+- 👨‍💻 **Engineer graduated from Poytech Sorbonne in Paris (geophysics)**
+- Master of Science in Innovation and Entrepreneurship from ESCP Europe business school
+- Data science skills forged at Le Wagon Rio de Janeiro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
